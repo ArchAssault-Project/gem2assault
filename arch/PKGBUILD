@@ -12,7 +12,7 @@ md5sums=('SKIP')
 
 build() {
   cd "$srcdir/gem2assault"
-  grep -o "[[:digit:]].\{2\}.[[:digit:]]" "$srcdir/gem2assault/lib/gem2arch.rb"
+  grep -o "[[:digit:]].\{2\}.[[:digit:]]" "$srcdir/gem2assault/lib/gem2assault.rb"
 }
 
 package() {
