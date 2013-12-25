@@ -6,8 +6,8 @@ Gem::Specification.new do |s|
   s.version = "0.0.7"
   s.description = "A version of gem2arch by crabtw that creates an ArchLinux PKGBUILD from a ruby gem ported for ArchAssault"
   s.summary = "Creates an ArchLinux PKGBUILD from a ruby gem"
-  s.authors = ["Ari Mizrahi" "Evan Teitelman"]
-  s.email = "codemunchies@gmail.com"
+  s.authors = ["Jeremy Lynch"]
+  s.email = "jl@archassault.org"
   s.homepage = "http://github.com/ArchAssault-Project/gem2assault"
   s.license = "GPL-3"
 
